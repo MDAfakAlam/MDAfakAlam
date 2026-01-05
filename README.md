@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">Hi, I'm Md Afak Alam</h1>
-<h3 align="center">Data Analyst | Backend & Automation Enthusiast</h3>
+<h3 align="center">AI Data Analyst | AI Powered Backend & Automation Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdafakalam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -23,10 +23,10 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Final-year **BTech (Computer Science)** graduate  
+- 🎓 **B.Tech (Computer Science)** graduate  
 - 📊 Aspiring **Data Analyst** with strong hands-on project experience  
-- 🔭 Working on **Data Analytics & Automation Projects**  
-- 🌱 Learning **FastAPI, Backend Development, Web Scraping & System Automation**  
+- 🔭 Working on **AI Data Analytics & Automation Projects**  
+- 🌱 Learning **FastAPI, AI Powered Backend Development, Web Scraping & System Automation**  
 - 💬 Ask me about **Python, SQL, Power BI, Excel, FastAPI**  
 - 📫 Reach me: **afakalam.tech@gmail.com**  
 - ⚡ Fun fact: **I enjoy turning messy data into meaningful insights**  
@@ -63,7 +63,6 @@
 - **E-commerce Sales Analysis** (Python, SQL, Power BI)  
 - **Customer Segmentation (RFM Analysis)**  
 - **Employee Attrition Analysis**  
-- **GeM Contract PDF Automation & Web Scraping**  
 - **FastAPI CRUD Applications**  
 
 ---
