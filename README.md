@@ -24,10 +24,10 @@
 
 ## 🚀 About Me  
 - 🎓 **B.Tech (Computer Science)** graduate  
-- 📊 Aspiring **Data Analyst** with strong hands-on project experience  
-- 🔭 Working on **AI Data Analytics & Automation Projects**  
+- 📊 Aspiring **Software Developer** with strong hands-on project experience  
+- 🔭 Working on **AI Powered Backend Development, AI Data Analytics & Automation Projects**  
 - 🌱 Learning **FastAPI, AI Powered Backend Development, Web Scraping & System Automation**  
-- 💬 Ask me about **Python, SQL, Power BI, Excel, FastAPI**  
+- 💬 Ask me about ** Node.js, TypeScript, PostgreSQL, Python, Power BI, FastAPI**  
 - 📫 Reach me: **afakalam.tech@gmail.com**  
 - ⚡ Fun fact: **I enjoy turning messy data into meaningful insights**  
 
